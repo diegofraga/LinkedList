@@ -57,6 +57,8 @@ public void RemoveDuplicated() {
 T(n) = O(n3)
 
 
+
+
 public static void Intersection(LinkedList list1, LinkedList list2) {
 		Node node1 = list1.head;                                             	1
 		Node node2 = list2.head;												1
@@ -110,5 +112,3 @@ public static void Intersection(LinkedList list1, LinkedList list2) {
 		}
 		
 	}
-
-
